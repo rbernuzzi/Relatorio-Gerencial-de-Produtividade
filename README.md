@@ -4,8 +4,13 @@ Aplicação web para registrar a rotina diária dos analistas PROCON e acompanha
 
 ## Aplicações
 
-- [Aplicação do analista](https://rbernuzzi.github.io/relatorio-protocolos/) — [abrir `index.html`](./index.html). Registra produção e jornada no Controle Diário, ocorrências, fechamento mensal e, para PROCON CADASTRO, leitura e conclusão de cadastros.
-- [Visão da liderança](https://rbernuzzi.github.io/relatorio-protocolos/lideranca.html) — [abrir `lideranca.html`](./lideranca.html). Importa fechamentos e apresenta indicadores consolidados, ranking, análise individual, ocorrências e horas extras.
+- [Aplicação do analista](https://rbernuzzi.github.io/relatorio-protocolos/) — [abrir `index.html`](./index.html).
+
+  Registra produção e jornada no controle diário, ocorrências e fechamento mensal.
+  
+- [Visão da liderança](https://rbernuzzi.github.io/relatorio-protocolos/lideranca.html) — [abrir `lideranca.html`](./lideranca.html).
+
+  Importa fechamentos e apresenta indicadores consolidados, ranking, análise individual, ocorrências e horas extras.
 
 ## Uso
 
