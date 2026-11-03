@@ -12,7 +12,7 @@ Aplicação web para registrar a rotina diária dos analistas PROCON e acompanha
 1. Abra a aplicação correspondente ao seu perfil.
 2. Na aplicação do analista, configure nome, funcional, setor, jornada e metas.
 3. Exporte o fechamento mensal em JSON para compartilhar os resultados com a liderança.
-4. Na Visão da liderança, importe os arquivos de fechamento para consultar e comparar os resultados por setor e competência.
+4. Na Visão da liderança, importe os arquivos de fechamento para consultar e comparar os resultados.
 
 Os dados do analista e os fechamentos importados pela liderança são mantidos no armazenamento local do navegador. Use as opções de backup e exportação da aplicação para guardar cópias e transferir dados entre navegadores.
 
