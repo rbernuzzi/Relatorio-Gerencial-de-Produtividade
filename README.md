@@ -10,7 +10,7 @@ Aplicação web para registrar a rotina diária dos analistas PROCON e acompanha
 ## Uso
 
 1. Abra a aplicação correspondente ao seu perfil.
-2. Na aplicação do analista, configure nome, funcional, setor, jornada e metas. Registre a produção e as horas trabalhadas no Controle Diário.
+2. Na aplicação do analista, configure nome, funcional, setor, jornada e metas.
 3. Exporte o fechamento mensal em JSON para compartilhar os resultados com a liderança.
 4. Na Visão da liderança, importe os arquivos de fechamento para consultar e comparar os resultados por setor e competência.
 
@@ -23,4 +23,4 @@ Os dados do analista e os fechamentos importados pela liderança são mantidos n
 | `index.html` | Ferramentas de registro e acompanhamento do analista |
 | `lideranca.html` | Painel gerencial e análise dos fechamentos importados |
 
-O projeto usa HTML, CSS e JavaScript no navegador. Não é necessário instalar dependências para abrir as páginas localmente; para usar a janela flutuante do contador, abra a aplicação publicada em HTTPS num navegador compatível.
+O projeto usa HTML, CSS e JavaScript no navegador. Não é necessário instalar dependências para abrir as páginas localmente, para usar a janela flutuante do contador, abra a aplicação publicada em HTTPS num navegador compatível.
