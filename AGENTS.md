@@ -2,7 +2,7 @@
 
 ## Sobre este repositório
 
-- Este projeto é uma aplicação estática publicada pelo GitHub Pages em <https://rbernuzzi.github.io/relatorio-protocolos/>.
+- Este projeto é uma aplicação estática publicada pelo GitHub Pages em <https://rbernuzzi.github.io/Relatorio-Gerencial-de-Produtividade/>.
 - `index.html` é a aplicação principal e contém o Leitor Procon. A implementação é autocontida em um único arquivo HTML; preserve esse formato, salvo pedido explícito do usuário.
 - `lideranca.html` é a página da visão de liderança.
 - O GitHub Pages publica a raiz do branch `main`. Uma alteração mesclada em `main` pode ser publicada no site.
